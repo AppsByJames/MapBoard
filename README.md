@@ -31,6 +31,8 @@ MapBoard is a desktop app for building interactive scenario boards: grand-strate
 
 ---
 
+<img width="1919" height="1029" alt="Screenshot 2026-07-29 114138" src="https://github.com/user-attachments/assets/735031f9-8890-4dbc-a470-3e0463990162" />
+
 ## Feature tour
 
 ### Interactive world map
