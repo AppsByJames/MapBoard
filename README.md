@@ -6,6 +6,8 @@ MapBoard is a desktop app for building interactive scenario boards: grand-strate
 
 ---
 
+<img width="1919" height="1029" alt="MapBoard_US_IRAN_WAR" src="https://github.com/user-attachments/assets/7dbb82c5-925e-4c3f-88aa-c01ef03c3ac7" />
+
 ## Highlights
 
 | | |
