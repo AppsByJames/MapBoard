@@ -4,7 +4,7 @@
 
 MapBoard is a desktop app for building interactive scenario boards: grand-strategy style maps, crisis dashboards, teaching aids, campaign notes, or personal geopolitics scratchpads. Everything lives in plain project files you own.
 
-<a href="https://github.com/AppsByJames/MapBoard/releases/tag/v1.0.0" download style="font-size: 24px; font-weight: bold;">Download Here</a>
+<a href="https://github.com/AppsByJames/MapBoard/releases" download style="font-size: 24px; font-weight: bold;">Download Here</a>
 
 ---
 
